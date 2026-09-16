@@ -1,3 +1,4 @@
+<img width="864" height="1821" alt="ChatGPT Image 15 de set  de 2026, 20_59_35" src="https://github.com/user-attachments/assets/a9d91a80-38ee-4a34-9bcd-7ea7445788f2" />
 ## Hi there 👋
 
 <!--
