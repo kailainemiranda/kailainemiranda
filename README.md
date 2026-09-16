@@ -1,12 +1,5 @@
 
-<img width="864" height="1821" alt="ChatGPT Image 15 de set  de 2026, 20_59_35" src="https://github.com/user-attachments/assets/cce756e4-2c11-4158-b057-f1226765e17e" />
-
-DevOps e Cloud
-
-Idiomas
-🌐 Português · Nativo
-🌐 Inglês · Intermediário
-
+<img width="853" height="1280" alt="WhatsApp Image 2026-09-15 at 21 31 57" src="https://github.com/user-attachments/assets/952971cf-a478-48fc-b11b-7a2be4555dfa" />
 
 
 <!--
