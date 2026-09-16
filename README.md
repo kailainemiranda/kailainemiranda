@@ -6,8 +6,7 @@ DevOps e Cloud
 Idiomas
 🌐 Português · Nativo
 🌐 Inglês · Intermediário
-Estatísticas do GitHub
-Estatísticas do Pedro Gonçalves
+
 
 Principais linguagens do Kailaine Miranda
 
