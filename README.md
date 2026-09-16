@@ -8,11 +8,7 @@ Idiomas
 🌐 Inglês · Intermediário
 
 
-Principais linguagens do Kailaine Miranda
 
-GitHub Streak
-
-Abrir ReadmeForge · Entre em contato
 <!--
 **kailainemiranda/kailainemiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
