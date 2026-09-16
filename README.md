@@ -1,6 +1,42 @@
-<img width="864" height="1821" alt="ChatGPT Image 15 de set  de 2026, 20_59_35" src="https://github.com/user-attachments/assets/a9d91a80-38ee-4a34-9bcd-7ea7445788f2" />
+
+Kailaine Miranda
+DevOps / Desenvolvedor Web
+
+Typing SVG
+
+LinkedIn Portfolio
+
+Apaixonado por automação de infraestrutura e desenvolvimento de software. Construo soluções práticas utilizando ferramentas como Python, C#, Docker e Ansible, sempre buscando otimizar processos e arquiteturas.
 
 
+Visão Geral
+⌖ Localização · Belo Horizonte, Brasil
+⌗ Experiência · Estagiário DevOps na Construsite Brasil, atuando com administração de sistemas e automação.
+✦ Curiosidade · Mantenho um Home Lab com hardwares reaproveitados rodando ZimaOS
+Ferramentas que Utilizo
+Linguagens
+
+Linguagens
+
+Backend e Bancos de Dados
+
+Backend e Bancos de Dados
+
+DevOps e Cloud
+
+DevOps e Cloud
+
+Idiomas
+🌐 Português · Nativo
+🌐 Inglês · Intermediário
+Estatísticas do GitHub
+Estatísticas do Pedro Gonçalves
+
+Principais linguagens do Kailaine Miranda
+
+GitHub Streak
+
+Abrir ReadmeForge · Entre em contato
 <!--
 **kailainemiranda/kailainemiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
